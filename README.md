@@ -8,6 +8,7 @@ Experienced full-stack developer with over 6 years of expertise in crafting robu
 
 * 🌍  I'm based in Ontario, Canada
 * ✉️  You can contact me at [priyamsharma2704@gmail.com](mailto:priyamsharma2704@gmail.com)
+* 🚀  I'm currently working on [EasyInstall](http://github.com/priyamsharma2704/React/blob/main/EasyInstall/README.md)
 
 <a href="https://www.github.com/priyamsharma2704" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/priyamsharma2704?logo=github&style=for-the-badge&color=64748b&labelColor=27272a" /></a>
