@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Priyam Sharma
 =====================================================================================================================================
 
-Software DeveloperII
+Software Developer II
 --------------------
 
 Experienced full-stack developer with over 6 years of expertise in crafting robust and scalable applications. Proficient in a versatile tech stack including React, JavaScript, HTML, CSS, C#, Python, and C++. Skilled in both frontend and backend development, with a track record of delivering high-quality solutions that meet and exceed client expectations.
