@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Priyam Sharma
 =====================================================================================================================================
 
-Software Developer II
+Software DeveloperII
 --------------------
 
 Experienced full-stack developer with over 6 years of expertise in crafting robust and scalable applications. Proficient in a versatile tech stack including React, JavaScript, HTML, CSS, C#, Python, and C++. Skilled in both frontend and backend development, with a track record of delivering high-quality solutions that meet and exceed client expectations.
 
 * 🌍  I'm based in Ontario, Canada
 * ✉️  You can contact me at [priyamsharma2704@gmail.com](mailto:priyamsharma2704@gmail.com)
-* 🚀  I'm currently working on [EasyInstall](http://easy-install.vercel.app/)  (Github: https://github.com/priyamsharma2704/React/tree/main/EasyInstall)
+* 🚀  I'm currently working on [GameReleaseCalendar](http://gamereleasecalendar.vercel.app/)
 
 <a href="https://www.github.com/priyamsharma2704" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/priyamsharma2704?logo=github&style=for-the-badge&color=64748b&labelColor=27272a" /></a>
