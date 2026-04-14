@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Priyam Sharma
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Priyam Sharma
 =====================================================================================================================================
 
-Software DeveloperII
+Senior Software Developer
 --------------------
 
-Experienced full-stack developer with over 6 years of expertise in crafting robust and scalable applications. Proficient in a versatile tech stack including React, JavaScript, HTML, CSS, C#, Python, and C++. Skilled in both frontend and backend development, with a track record of delivering high-quality solutions that meet and exceed client expectations.
+Experienced software engineer with 8+ years of experience full stack development and building modern, scalable, and user-centric applications. Proficient in React, Nodejs, REST APIs and web development. Passionate about designing seamless user experiences and solving high-impact problems end-to-end.
 
 * 🌍  I'm based in Ontario, Canada
 * ✉️  You can contact me at [priyamsharma2704@gmail.com](mailto:priyamsharma2704@gmail.com)
@@ -29,18 +29,11 @@ src="https://img.shields.io/github/followers/priyamsharma2704?logo=github&style=
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/priyamsharma2704"><img src="https://github-readme-stats.vercel.app/api?username=priyamsharma2704&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=64748b&bg_color=27272a&hide_border=true&show_icons=true" alt="priyamsharma2704's GitHub stats" /></a>
-
 <a href="http://www.github.com/priyamsharma2704"><img src="https://github-readme-streak-stats.herokuapp.com/?user=priyamsharma2704&stroke=ffffff&background=27272a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/priyamsharma2704"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=priyamsharma2704&bg_color=27272a&color=ffffff&line=64748b&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/priyamsharma2704" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyamsharma2704&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=64748b&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 <b>Top Repositories</b>
+<a href="http://www.github.com/priyamsharma2704"><img src="https://repobeats.axiom.co/api/embed/84b49281d4d8a4c2c22b1bfeb270785931af22cb.svg" /></a>
+<a href="http://www.github.com/priyamsharma2704"><img src="https://repobeats.axiom.co/api/embed/5ac4f595e05f06937c1164f657f61e92d273b22c.svg" /></a>
 
-<div width="100%" align="center"><a href="https://github.com/priyamsharma2704/React" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=priyamsharma2704&repo=React&title_color=ffffff&text_color=ffffff&icon_color=64748b&bg_color=27272a&hide_border=true&locale=en" /></a><a href="https://github.com/priyamsharma2704/C-Sharp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=priyamsharma2704&repo=C-Sharp&title_color=ffffff&text_color=ffffff&icon_color=64748b&bg_color=27272a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/priyamsharma2704/JavaScript" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=priyamsharma2704&repo=JavaScript&title_color=ffffff&text_color=ffffff&icon_color=64748b&bg_color=27272a&hide_border=true&locale=en" /></a></div>
