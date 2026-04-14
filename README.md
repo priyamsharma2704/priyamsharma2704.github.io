@@ -32,7 +32,10 @@ src="https://img.shields.io/github/followers/priyamsharma2704?logo=github&style=
 <a href="http://www.github.com/priyamsharma2704"><img src="https://github-readme-streak-stats.herokuapp.com/?user=priyamsharma2704&stroke=ffffff&background=27272a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <b>Top Repositories</b>
+<br>
+[javascript](https://github.com/priyamsharma2704/JavaScript)
 <a href="http://www.github.com/priyamsharma2704"><img src="https://repobeats.axiom.co/api/embed/84b49281d4d8a4c2c22b1bfeb270785931af22cb.svg" /></a>
+[react](https://github.com/priyamsharma2704/React)
 <a href="http://www.github.com/priyamsharma2704"><img src="https://repobeats.axiom.co/api/embed/5ac4f595e05f06937c1164f657f61e92d273b22c.svg" /></a>
 
 
